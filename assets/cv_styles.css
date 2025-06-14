@@ -1,0 +1,64 @@
+/* Shared styles for both Spanish and English CVs. */
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #e2e8f0;
+    color: #334155;
+}
+
+.cv-container {
+    max-width: 850px;
+    margin: 2.5rem auto;
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.section-title {
+    border-bottom: 3px solid #2563eb;
+    padding-bottom: 0.8rem;
+    margin-bottom: 1.5rem;
+    color: #1a202c;
+    font-size: 1.875rem;
+    font-weight: 700;
+}
+
+.item-list li {
+    margin-bottom: 0.5rem;
+}
+
+.icon-text {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+.icon-text .fa-solid, .icon-text .fa-brands {
+    color: #2563eb;
+    font-size: 1.1em;
+}
+
+a {
+    transition: color 0.2s ease-in-out, text-decoration 0.2s ease-in-out;
+}
+a:hover {
+    text-decoration: underline;
+    color: #1d4ed8;
+}
+
+strong {
+    font-weight: 600;
+}
+
+/* Profile image styles */
+.profile-img {
+    width: 165px; 
+    height: 165px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 4px solid #2563eb;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}

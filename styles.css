@@ -1,0 +1,45 @@
+/*
+ * Global styles for the CV portfolio's language selection page.
+ */
+
+/* Base styles for body */
+body {
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #e2e8f0;
+    color: #334155;
+    text-align: center;
+    padding: 1rem;
+}
+
+/* Main content container (card) */
+.container {
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    padding: 3rem;
+    max-width: 600px;
+    width: 100%;
+}
+
+/* Language selection buttons */
+.btn {
+    display: inline-block;
+    margin: 1rem 0.5rem;
+    padding: 0.8rem 1.5rem;
+    background-color: #2563eb;
+    color: #ffffff;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.2s ease-in-out;
+}
+
+/* Button hover effect */
+.btn:hover {
+    background-color: #1d4ed8;
+}
