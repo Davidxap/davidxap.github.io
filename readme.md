@@ -10,8 +10,8 @@ The webpage hosted here is my digital curriculum vitae. Its primary purpose is t
 
 You can view my full resume online, with options to switch between languages:
 
-* **View in English:** [davidxap.github.io/en/index.html](https://davidxap.github.io/en/index.html)
-* **Ver en Español:** [davidxap.github.io/es/index.html](https://davidxap.github.io/es/index.html)
+* **View in English:** [davidxap.github.io/en/index.html](https://davidxap.github.io/en/resume.html)
+* **Ver en Español:** [davidxap.github.io/es/index.html](https://davidxap.github.io/es/hojadevida.html)
 
 Once on the page, you'll find sections detailing my professional summary, technical and soft skills, relevant experience, academic background, language proficiencies, and a dedicated section showcasing my academic and personal projects.
 
@@ -37,8 +37,8 @@ La página web alojada aquí es mi currículum vitae digital. Su propósito prin
 
 Puedes ver mi currículum completo en línea, con opciones para cambiar entre idiomas:
 
-* **Ver en Español:** [davidxap.github.io/es/index.html](https://davidxap.github.io/es/index.html)
-* **View in English:** [davidxap.github.io/en/index.html](https://davidxap.github.io/en/index.html)
+* **Ver en Español:** [davidxap.github.io/es/index.html](https://davidxap.github.io/es/hojadevida.html)
+* **View in English:** [davidxap.github.io/en/index.html](https://davidxap.github.io/en/resume.html)
 
 Una vez en la página, encontrarás secciones que detallan mi perfil profesional, habilidades técnicas y blandas, experiencia relevante, formación académica, dominio de idiomas y una sección dedicada que muestra mis proyectos académicos y personales.
 
